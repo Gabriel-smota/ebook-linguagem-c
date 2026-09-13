@@ -31,7 +31,7 @@ Durante o conteúdo são apresentados conceitos importantes como:
 
 Confira também meu artigo sobre Linguagem C:
 
-COLE AQUI O LINK DO SEU ARTIGO DA DIO
+https://web.dio.me/articles/funcoes-na-linguagem-c-entenda-como-elas-ajudam-a-organizar-seu-codigo-e3f131187998?back=/articles#state=a9d3d10e-f12b-4485-883a-9a1b282c85aa&session_state=3615c454-2581-4213-b7ad-2aa06138bd1c&code=f0803bf9-afd6-40a4-be1a-ca190a9f3a5c.3615c454-2581-4213-b7ad-2aa06138bd1c.a889d5a2-0d02-46df-83a5-28a1b4ac39ab
 
 ## 🚀 Tecnologias e ferramentas utilizadas
 
