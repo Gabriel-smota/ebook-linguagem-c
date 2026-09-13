@@ -1,44 +1,33 @@
-# 📘 Código C: O Poder por Trás do Mundo Digital
+📘 Criando um eBook com ChatGPT & MidJourney
 
 Este projeto foi desenvolvido como parte de um desafio da DIO.
 
-O objetivo foi criar um eBook sobre a Linguagem C utilizando ferramentas de Inteligência Artificial como apoio no processo de criação.
+O desafio teve como objetivo criar um eBook utilizando ferramentas de Inteligência Artificial, como o ChatGPT para auxiliar na criação do conteúdo e o MidJourney para a geração de imagens.
 
-## 📚 Sobre o eBook
+📚 Sobre o Projeto
 
-O eBook apresenta uma introdução à Linguagem C de forma simples e acessível.
+O eBook desenvolvido tem como tema:
 
-Durante o conteúdo são apresentados conceitos importantes como:
+Código C: O Poder por Trás do Mundo Digital
 
-* Conhecendo a Linguagem C
-* Primeiro código
-* Variáveis
-* Entrada de dados
-* Operadores
-* Estruturas condicionais
-* Laços de repetição
-* Funções
-* Arrays
-* Ponteiros
+O objetivo do conteúdo é apresentar a Linguagem C de forma simples e acessível, mostrando sua importância para o mundo da tecnologia e da programação.
 
-## 📂 Estrutura do projeto
+🛠️ Ferramentas Utilizadas
+ChatGPT — Utilizado para auxiliar na criação e organização do conteúdo.
+MidJourney — Utilizado para a criação das imagens do projeto.
+GitHub — Utilizado para armazenar e compartilhar o projeto.
+📂 Estrutura do Projeto
 
-📁 `prompts` → Prompts utilizados durante a criação do projeto.
+📁 prompts — Contém os prompts utilizados durante a criação do projeto.
 
-📁 `ebook` → Arquivo final do eBook.
+📁 ebook — Contém o arquivo final do eBook.
 
-## 🔗 Artigo relacionado
+🔗 Artigo Relacionado
 
-Confira também meu artigo sobre Linguagem C:
+Confira também meu artigo relacionado à Linguagem C:
 
 https://web.dio.me/articles/funcoes-na-linguagem-c-entenda-como-elas-ajudam-a-organizar-seu-codigo-e3f131187998?back=/articles#state=a9d3d10e-f12b-4485-883a-9a1b282c85aa&session_state=3615c454-2581-4213-b7ad-2aa06138bd1c&code=f0803bf9-afd6-40a4-be1a-ca190a9f3a5c.3615c454-2581-4213-b7ad-2aa06138bd1c.a889d5a2-0d02-46df-83a5-28a1b4ac39ab
 
-## 🚀 Tecnologias e ferramentas utilizadas
-
-* Linguagem C
-* ChatGPT
-* GitHub
-
-## 👨‍💻 Autor
+👨‍💻 Autor
 
 Gabriel Mota
